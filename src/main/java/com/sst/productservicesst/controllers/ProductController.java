@@ -32,7 +32,6 @@ public class ProductController { // waiter
 //        try {
 //            product = productService.getProductById(id);
 //            responseEntity = new ResponseEntity<>(product, HttpStatus.OK);
-//            System.out.println("Hello");
 //            return responseEntity;
 //        } catch (RuntimeException exception) {
 //            ExceptionDto dto = new ExceptionDto();
