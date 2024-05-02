@@ -17,6 +17,7 @@ public class Product {
     private Category category;
     private String image;
 
+    // No need of this constructor due to the annotations
 //    Product(Long id, String title, String description,
 //            Double price, Category category, String image) {
 //        this.id = id;
